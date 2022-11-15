@@ -6,7 +6,6 @@ body{
 }
  header {
     background-color: rgb(167, 85, 167);
-    border-radius: 10%;
     text-align: center;
    padding-top: 20px;
    padding-bottom: 10px;
@@ -24,6 +23,8 @@ body{
     border-radius: 50%;
     width: 400px;
     border: 10px solid teal ;
+    margin: 0 auto;
+    max-width: 100%;
  }
  p,a{
     
