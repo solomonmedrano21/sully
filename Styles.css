@@ -1,0 +1,57 @@
+body{ 
+    margin: 0;
+ font-size: 20px; 
+  background-color: rgba(0, 0, 0, 0.788);
+  line-height: 35px;
+}
+ header {
+    background-color: rgb(167, 85, 167);
+    border-radius: 10%;
+    text-align: center;
+   padding-top: 20px;
+   padding-bottom: 10px;
+ }
+
+ h1,h2,h3{
+   color: lightgrey;
+    font-family: 'Anton', sans-serif;
+    font-size: 40px;
+    font-family: 'Bangers', cursive;
+ } 
+
+
+ header img {
+    border-radius: 50%;
+    width: 400px;
+    border: 10px solid teal ;
+    max-width: 100%;
+ }
+ p,a{
+    
+    font-family: 'Comic sans MS', 'Arial Narrow', Arial, sans-serif;
+    color: lightblue; 
+    font-size: 25px;
+ }
+ main{
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+
+ }
+ main img{
+    max-width: 100%;
+}
+a:hover{
+    color: azure;
+    background-color: black
+}
+footer{
+    
+    background-color: rgb(167, 85, 167);
+    max-width: 85%;
+    border-radius: 20%;
+    margin: 0 auto;
+    text-align: center;
+   padding-top: 20px;
+   padding-bottom: 10px;
+}
